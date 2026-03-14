@@ -1,12 +1,3 @@
-"""
-ImmiSense — CLI Debug Runner
-============================
-Runs the full 5-agent pipeline in the terminal.
-No Streamlit. Prints raw agent output at every step.
-
-Usage:
-    python debug_pipeline.py
-"""
 
 import json
 import os
